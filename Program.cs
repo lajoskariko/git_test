@@ -6,8 +6,6 @@
         {
             Console.WriteLine("Git test");
             Console.WriteLine("Valami");
-            Console.WriteLine("Second commit");
-            Console.WriteLine("Include this line in the second commit");
         }
     }
 }
