@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Git test");
             Console.WriteLine("Valami");
+            Console.WriteLine("Second commit");
         }
     }
 }
