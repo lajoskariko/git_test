@@ -6,7 +6,6 @@
         {
             Console.WriteLine("Git test");
             Console.WriteLine("Valami");
-            Console.WriteLine("Include this line in the first commit");
         }
     }
 }
