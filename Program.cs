@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Git test");
             Console.WriteLine("Something");
+            Console.WriteLine("Something again");
         }
     }
 }
